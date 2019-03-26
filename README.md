@@ -22,3 +22,4 @@
 * [微服务](microservice/microservice.md)
 * [多云与混合云管理](cloud/cloud.md)
 * [源码分析](sourcecode/sourcecode.md)
+* [如何贡献项目](CONTRIBUTING.md)
